@@ -5,7 +5,7 @@
 - <b>Job Recommender</b>
   - [NLP and Machine Learning Based Job Recommendation System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Financial Transaction Management System</b>
-  - [Program for Tracking Stock Investments](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Program for Tracking Stock Investments](https://github.com/SharanyaBasu/Financial-Transaction-Tracker)
 - <b>Automated Medication Dispenser	</b>
   - [Prototype Model to Increase Drug Administration Efficiency in Health Care Instituitions](https://github.com/maxlou05/ECE198)
 - <b>GeeseSpotter</b>
