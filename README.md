@@ -9,7 +9,7 @@
 - <b>Automated Medication Dispenser	</b>
   - [Prototype Model to Increase Drug Administration Efficiency in Health Care Instituitions](https://github.com/maxlou05/ECE198)
 - <b>GeeseSpotter</b>
-  - [Minesweeper Inspired Game](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Minesweeper Inspired Game](https://github.com/SharanyaBasu/GeeseSpotter)
 - <b>Classic Snake Game</b>
   - [Classic Snake Game for UNIX Based Operating System MacOS](https://github.com/joshmadakor1/Sentinel-Lab)
 
