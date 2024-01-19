@@ -7,7 +7,7 @@
 - <b>Financial Transaction Management System</b>
   - [Program for Tracking Stock Investments](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automated Medication Dispenser	</b>
-  - [Prototype Model to Increase Drug Administration Efficiency in Health Care Instituitions](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Prototype Model to Increase Drug Administration Efficiency in Health Care Instituitions](https://github.com/maxlou05/ECE198)
 - <b>GeeseSpotter</b>
   - [Minesweeper Inspired Game](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Classic Snake Game</b>
