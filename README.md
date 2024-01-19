@@ -11,7 +11,7 @@
 - <b>GeeseSpotter</b>
   - [Minesweeper Inspired Game](https://github.com/SharanyaBasu/GeeseSpotter)
 - <b>Classic Snake Game</b>
-  - [Classic Snake Game for UNIX Based Operating System MacOS](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Classic Snake Game for UNIX Based Operating System MacOS](https://github.com/SharanyaBasu/Snake-Game)
 
 <h2> 🤳 Connect with me:</h2>
 
