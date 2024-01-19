@@ -3,7 +3,7 @@
 <h2>👩‍💻 Software/Hardware Development Projects:</h2>
 
 - <b>Job Recommender</b>
-  - [NLP and Machine Learning Based Job Recommendation System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [NLP and Machine Learning Based Job Recommendation System](https://github.com/SharanyaBasu/Job-Recommender)
 - <b>Financial Transaction Management System</b>
   - [Program for Tracking Stock Investments](https://github.com/SharanyaBasu/Financial-Transaction-Tracker)
 - <b>Automated Medication Dispenser	</b>
