@@ -1,4 +1,5 @@
-<h1>Hi, I'm Sharanya!</h1> <a href="https://www.linkedin.com/in/sharanya-basu/"><h3>Bachelor of Applied Science in Honors Computer Engineering | The University of Waterloo</h3></a>
+<h1>Hi, I'm Sharanya!</h1> <h3>Bachelor of Applied Science in Honors Computer Engineering | The University of Waterloo</h3
+<a href="https://sharanyabasu.github.io/Personal-Website/"><h4>Visit my Personal Website!</h4></a>
 
 <h2>👩‍💻 Software/Hardware Development Projects:</h2>
 
