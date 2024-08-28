@@ -25,5 +25,6 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />
 </a>
 <a href="https://devpost.com/2016sharanya" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devpost.svg" alt="Devpost" />
+  Devpost
 </a>
+
